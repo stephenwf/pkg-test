@@ -1,7 +1,8 @@
 {
   "name": "@stephenwf/pkg-test",
   "version": "0.0.2",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "files": ["lib"],
   "license": "MIT",
   "scripts": {
     "build": "echo 'building...'",
