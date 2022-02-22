@@ -1,0 +1,13 @@
+{
+  "name": "@stephenwf/pkg-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo 'building...'",
+    "test": "echo 'testing...'"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
